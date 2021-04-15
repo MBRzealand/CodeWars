@@ -1,4 +1,4 @@
-package kata.eigth_kyu;
+package kata.eighth_kyu;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;
